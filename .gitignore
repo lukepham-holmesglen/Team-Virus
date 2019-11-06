@@ -35,3 +35,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Pink Eye/Library/shadercompiler-UnityShaderCompiler.exe0.log
+*.log
