@@ -23,10 +23,10 @@ namespace BeatEmUpTemplate {
 		}
 
 		//play a sfx
-		public void playSFX(string name){
+		public void playSFX(string jimmy){
 			bool SFXFound = false;
 			foreach(AudioItem audioItem in AudioList){
-				if(audioItem.name == name){
+				if(audioItem.name == jimmy){
 
 					//pick a random number (not same twice)
 					int rand = Random.Range (0, audioItem.clip.Length);
@@ -36,7 +36,7 @@ namespace BeatEmUpTemplate {
 					SFXFound = true;
 				}
 			}
-			if (!SFXFound) Debug.Log ("no sfx found with name: " + name);
+			if (!SFXFound) Debug.Log ("no sfx found with name: " + jimmy);
 		}
 
 		//plays a sfx at a certain world position
