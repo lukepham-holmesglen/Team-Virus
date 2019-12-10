@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 1f0163ff9a7124048a1a3563e4344ae0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Calf
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Foot
+    100010: Bip001 L Forearm
+    100012: Bip001 L Thigh
+    100014: Bip001 L Toe0
+    100016: Bip001 L UpperArm
+    100018: Bip001 Neck
+    100020: Bip001 Pelvis
+    100022: Bip001 R Calf
+    100024: Bip001 R Clavicle
+    100026: Bip001 R Foot
+    100028: Bip001 R Thigh
+    100030: Bip001 R Toe0
+    100032: Bip001 Spine
+    100034: Bip001 Spine1
+    100036: Bip001 Spine2
+    100038: Brow
+    100040: Char
+    100042: //RootNode
+    100044: group
+    100046: group1
+    100048: group10
+    100050: group11
+    100052: group12
+    100054: group13
+    100056: group14
+    100058: group15
+    100060: group16
+    100062: group17
+    100064: group18
+    100066: group19
+    100068: group2
+    100070: group20
+    100072: group21
+    100074: group22
+    100076: group23
+    100078: group24
+    100080: group25
+    100082: group26
+    100084: group27
+    100086: group28
+    100088: group29
+    100090: group3
+    100092: group30
+    100094: group31
+    100096: group32
+    100098: group33
+    100100: group4
+    100102: group5
+    100104: group6
+    100106: group7
+    100108: group8
+    100110: group9
+    100112: LowerEyeLids
+    100114: pasted__Bip001
+    100116: pasted__Bip001 1
+    100118: pasted__Bip001 2
+    100120: pasted__Bip001 3
+    100122: pasted__Bip001 4
+    100124: pasted__Bip001 L Clavicle
+    100126: pasted__Bip001 L Clavicle 1
+    100128: pasted__Bip001 L Clavicle 2
+    100130: pasted__Bip001 L Clavicle 3
+    100132: pasted__Bip001 L Clavicle 4
+    100134: pasted__Bip001 L Forearm
+    100136: pasted__Bip001 L Forearm 1
+    100138: pasted__Bip001 L Forearm 2
+    100140: pasted__Bip001 L Forearm 3
+    100142: pasted__Bip001 L Hand
+    100144: pasted__Bip001 L UpperArm
+    100146: pasted__Bip001 L UpperArm 1
+    100148: pasted__Bip001 L UpperArm 2
+    100150: pasted__Bip001 L UpperArm 3
+    100152: pasted__Bip001 L UpperArm 4
+    100154: pasted__Bip001 Pelvis
+    100156: pasted__Bip001 Pelvis 1
+    100158: pasted__Bip001 Pelvis 2
+    100160: pasted__Bip001 Pelvis 3
+    100162: pasted__Bip001 Pelvis 4
+    100164: pasted__Bip001 Spine
+    100166: pasted__Bip001 Spine 1
+    100168: pasted__Bip001 Spine 2
+    100170: pasted__Bip001 Spine 3
+    100172: pasted__Bip001 Spine 4
+    100174: pasted__Bip001 Spine1
+    100176: pasted__Bip001 Spine1 1
+    100178: pasted__Bip001 Spine1 2
+    100180: pasted__Bip001 Spine1 3
+    100182: pasted__Bip001 Spine1 4
+    100184: pasted__Bip001 Spine2
+    100186: pasted__Bip001 Spine2 1
+    100188: pasted__Bip001 Spine2 2
+    100190: pasted__Bip001 Spine2 3
+    100192: pasted__Bip001 Spine2 4
+    100194: pasted__group
+    100196: pasted__group 1
+    100198: pasted__group 2
+    100200: pasted__group 3
+    100202: pasted__group1
+    100204: pasted__group10
+    100206: pasted__group12
+    100208: pasted__group13
+    100210: pasted__group14
+    100212: pasted__group17
+    100214: pasted__group18
+    100216: pasted__group2
+    100218: pasted__group24
+    100220: pasted__group26
+    100222: pasted__group26 1
+    100224: pasted__group27
+    100226: pasted__group27 1
+    100228: pasted__group28
+    100230: pasted__group28 1
+    100232: pasted__group28 2
+    100234: pasted__group29
+    100236: pasted__group3
+    100238: pasted__group30
+    100240: pasted__group32
+    100242: pasted__group7
+    100244: pasted__group8
+    100246: pasted__group9
+    100248: pasted__pasted__Bip001
+    100250: pasted__pasted__Bip001 1
+    100252: pasted__pasted__Bip001 2
+    100254: pasted__pasted__Bip001 3
+    100256: pasted__pasted__Bip001 4
+    100258: pasted__pasted__Bip001 5
+    100260: pasted__pasted__Bip001 6
+    100262: pasted__pasted__Bip001 L Clavicle
+    100264: pasted__pasted__Bip001 L Clavicle 1
+    100266: pasted__pasted__Bip001 L Clavicle 2
+    100268: pasted__pasted__Bip001 L Clavicle 3
+    100270: pasted__pasted__Bip001 L Clavicle 4
+    100272: pasted__pasted__Bip001 L Clavicle 5
+    100274: pasted__pasted__Bip001 L Clavicle 6
+    100276: pasted__pasted__Bip001 L Forearm
+    100278: pasted__pasted__Bip001 L Forearm 1
+    100280: pasted__pasted__Bip001 L Forearm 2
+    100282: pasted__pasted__Bip001 L UpperArm
+    100284: pasted__pasted__Bip001 L UpperArm 1
+    100286: pasted__pasted__Bip001 L UpperArm 2
+    100288: pasted__pasted__Bip001 L UpperArm 3
+    100290: pasted__pasted__Bip001 L UpperArm 4
+    100292: pasted__pasted__Bip001 L UpperArm 5
+    100294: pasted__pasted__Bip001 Pelvis
+    100296: pasted__pasted__Bip001 Pelvis 1
+    100298: pasted__pasted__Bip001 Pelvis 2
+    100300: pasted__pasted__Bip001 Pelvis 3
+    100302: pasted__pasted__Bip001 Pelvis 4
+    100304: pasted__pasted__Bip001 Pelvis 5
+    100306: pasted__pasted__Bip001 Pelvis 6
+    100308: pasted__pasted__Bip001 Spine
+    100310: pasted__pasted__Bip001 Spine 1
+    100312: pasted__pasted__Bip001 Spine 2
+    100314: pasted__pasted__Bip001 Spine 3
+    100316: pasted__pasted__Bip001 Spine 4
+    100318: pasted__pasted__Bip001 Spine 5
+    100320: pasted__pasted__Bip001 Spine 6
+    100322: pasted__pasted__Bip001 Spine1
+    100324: pasted__pasted__Bip001 Spine1 1
+    100326: pasted__pasted__Bip001 Spine1 2
+    100328: pasted__pasted__Bip001 Spine1 3
+    100330: pasted__pasted__Bip001 Spine1 4
+    100332: pasted__pasted__Bip001 Spine1 5
+    100334: pasted__pasted__Bip001 Spine1 6
+    100336: pasted__pasted__Bip001 Spine2
+    100338: pasted__pasted__Bip001 Spine2 1
+    100340: pasted__pasted__Bip001 Spine2 2
+    100342: pasted__pasted__Bip001 Spine2 3
+    100344: pasted__pasted__Bip001 Spine2 4
+    100346: pasted__pasted__Bip001 Spine2 5
+    100348: pasted__pasted__Bip001 Spine2 6
+    100350: pasted__pasted__group
+    100352: pasted__pasted__group 1
+    100354: pasted__pasted__group 2
+    100356: pasted__pasted__group13
+    100358: pasted__pasted__group14
+    100360: pasted__pasted__group14 1
+    100362: pasted__pasted__group26
+    100364: pasted__pasted__group26 1
+    100366: pasted__pasted__group27
+    100368: pasted__pasted__group27 1
+    100370: pasted__pasted__group27 2
+    100372: pasted__pasted__group28
+    100374: pasted__pasted__group28 1
+    100376: pasted__pasted__group7
+    100378: pasted__pasted__group8
+    100380: pasted__pasted__group9
+    100382: pasted__pasted__pasted__Bip001
+    100384: pasted__pasted__pasted__Bip001 1
+    100386: pasted__pasted__pasted__Bip001 2
+    100388: pasted__pasted__pasted__Bip001 L Clavicle
+    100390: pasted__pasted__pasted__Bip001 L Clavicle 1
+    100392: pasted__pasted__pasted__Bip001 L Clavicle 2
+    100394: pasted__pasted__pasted__Bip001 L Forearm
+    100396: pasted__pasted__pasted__Bip001 L Hand
+    100398: pasted__pasted__pasted__Bip001 L UpperArm
+    100400: pasted__pasted__pasted__Bip001 L UpperArm 1
+    100402: pasted__pasted__pasted__Bip001 L UpperArm 2
+    100404: pasted__pasted__pasted__Bip001 Pelvis
+    100406: pasted__pasted__pasted__Bip001 Pelvis 1
+    100408: pasted__pasted__pasted__Bip001 Pelvis 2
+    100410: pasted__pasted__pasted__Bip001 Spine
+    100412: pasted__pasted__pasted__Bip001 Spine 1
+    100414: pasted__pasted__pasted__Bip001 Spine 2
+    100416: pasted__pasted__pasted__Bip001 Spine1
+    100418: pasted__pasted__pasted__Bip001 Spine1 1
+    100420: pasted__pasted__pasted__Bip001 Spine1 2
+    100422: pasted__pasted__pasted__Bip001 Spine2
+    100424: pasted__pasted__pasted__Bip001 Spine2 1
+    100426: pasted__pasted__pasted__Bip001 Spine2 2
+    100428: pasted__pasted__pasted__group13
+    100430: pasted__pasted__pasted__group13 1
+    100432: pasted__pasted__pasted__group14
+    100434: pasted__pasted__pasted__group14 1
+    100436: pasted__pasted__pasted__group26
+    100438: pasted__pasted__pasted__group26 1
+    100440: pasted__pasted__pasted__group26 2
+    100442: pasted__pasted__pasted__group27
+    100444: pasted__pasted__pasted__group27 1
+    100446: pasted__pasted__pasted__group8
+    100448: pasted__pasted__pasted__pasted__group13
+    100450: pasted__pasted__pasted__pasted__group13 1
+    100452: pasted__pasted__pasted__pasted__group14
+    100454: pasted__pasted__pasted__pasted__group14 1
+    100456: pasted__pasted__pasted__pasted__group14 2
+    100458: pasted__pasted__pasted__pasted__group26
+    100460: pasted__pasted__pasted__pasted__group26 1
+    100462: pasted__pasted__pasted__pasted__pasted__group13
+    100464: pasted__pasted__pasted__pasted__pasted__group13 1
+    100466: pasted__pasted__pasted__pasted__pasted__group13 2
+    100468: pasted__pasted__pasted__pasted__pasted__group14
+    100470: pasted__pasted__pasted__pasted__pasted__group14 1
+    100472: pasted__pasted__pasted__pasted__pasted__pasted__group13
+    100474: pasted__pasted__pasted__pasted__pasted__pasted__group13 1
+    100476: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3
+    100478: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3 1
+    100480: pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3
+    100482: pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3 1
+    100484: pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3 2
+    100486: pasted__pasted__pasted__pasted__pasted__pCylinder3
+    100488: pasted__pasted__pasted__pasted__pasted__pCylinder3 1
+    100490: pasted__pasted__pasted__pasted__pCylinder3
+    100492: pasted__pasted__pasted__pasted__pCylinder3 1
+    100494: pasted__pasted__pasted__pCylinder3
+    100496: pasted__pasted__pasted__pSphere2
+    100498: pasted__pasted__pCylinder2
+    100500: pasted__pasted__pCylinder3
+    100502: pasted__pasted__pSphere2
+    100504: pasted__pasted__pSphere2 1
+    100506: pasted__pasted__pSphere2 2
+    100508: pasted__pasted__pSphere3
+    100510: pasted__pasted__pSphere3 1
+    100512: pasted__pCube2
+    100514: pasted__pCylinder2
+    100516: pasted__pCylinder2 1
+    100518: pasted__pCylinder3
+    100520: pasted__pCylinder3 1
+    100522: pasted__pCylinder3 2
+    100524: pasted__pSphere2
+    100526: pasted__pSphere2 1
+    100528: pasted__pSphere2 2
+    100530: pasted__pSphere2 3
+    100532: pasted__pSphere2 4
+    100534: pasted__pSphere3
+    100536: pasted__pSphere3 1
+    100538: pCube1
+    100540: pCube2
+    100542: pCylinder1
+    100544: pCylinder2
+    100546: pCylinder3
+    100548: PonyTail1
+    100550: PonyTail2
+    100552: PonyTail3
+    100554: pSphere1
+    100556: pSphere2
+    100558: pSphere3
+    100560: pSphere4
+    100562: transform1
+    100564: transform10
+    100566: transform11
+    100568: transform12
+    100570: transform13
+    100572: transform14
+    100574: transform15
+    100576: transform16
+    100578: transform17
+    100580: transform18
+    100582: transform19
+    100584: transform2
+    100586: transform20
+    100588: transform21
+    100590: transform22
+    100592: transform23
+    100594: transform24
+    100596: transform25
+    100598: transform26
+    100600: transform27
+    100602: transform28
+    100604: transform29
+    100606: transform3
+    100608: transform30
+    100610: transform31
+    100612: transform32
+    100614: transform33
+    100616: transform34
+    100618: transform35
+    100620: transform36
+    100622: transform37
+    100624: transform38
+    100626: transform39
+    100628: transform4
+    100630: transform5
+    100632: transform6
+    100634: transform7
+    100636: transform8
+    100638: transform9
+    100640: UpperEyeLids
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Calf
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Foot
+    400010: Bip001 L Forearm
+    400012: Bip001 L Thigh
+    400014: Bip001 L Toe0
+    400016: Bip001 L UpperArm
+    400018: Bip001 Neck
+    400020: Bip001 Pelvis
+    400022: Bip001 R Calf
+    400024: Bip001 R Clavicle
+    400026: Bip001 R Foot
+    400028: Bip001 R Thigh
+    400030: Bip001 R Toe0
+    400032: Bip001 Spine
+    400034: Bip001 Spine1
+    400036: Bip001 Spine2
+    400038: Brow
+    400040: Char
+    400042: //RootNode
+    400044: group
+    400046: group1
+    400048: group10
+    400050: group11
+    400052: group12
+    400054: group13
+    400056: group14
+    400058: group15
+    400060: group16
+    400062: group17
+    400064: group18
+    400066: group19
+    400068: group2
+    400070: group20
+    400072: group21
+    400074: group22
+    400076: group23
+    400078: group24
+    400080: group25
+    400082: group26
+    400084: group27
+    400086: group28
+    400088: group29
+    400090: group3
+    400092: group30
+    400094: group31
+    400096: group32
+    400098: group33
+    400100: group4
+    400102: group5
+    400104: group6
+    400106: group7
+    400108: group8
+    400110: group9
+    400112: LowerEyeLids
+    400114: pasted__Bip001
+    400116: pasted__Bip001 1
+    400118: pasted__Bip001 2
+    400120: pasted__Bip001 3
+    400122: pasted__Bip001 4
+    400124: pasted__Bip001 L Clavicle
+    400126: pasted__Bip001 L Clavicle 1
+    400128: pasted__Bip001 L Clavicle 2
+    400130: pasted__Bip001 L Clavicle 3
+    400132: pasted__Bip001 L Clavicle 4
+    400134: pasted__Bip001 L Forearm
+    400136: pasted__Bip001 L Forearm 1
+    400138: pasted__Bip001 L Forearm 2
+    400140: pasted__Bip001 L Forearm 3
+    400142: pasted__Bip001 L Hand
+    400144: pasted__Bip001 L UpperArm
+    400146: pasted__Bip001 L UpperArm 1
+    400148: pasted__Bip001 L UpperArm 2
+    400150: pasted__Bip001 L UpperArm 3
+    400152: pasted__Bip001 L UpperArm 4
+    400154: pasted__Bip001 Pelvis
+    400156: pasted__Bip001 Pelvis 1
+    400158: pasted__Bip001 Pelvis 2
+    400160: pasted__Bip001 Pelvis 3
+    400162: pasted__Bip001 Pelvis 4
+    400164: pasted__Bip001 Spine
+    400166: pasted__Bip001 Spine 1
+    400168: pasted__Bip001 Spine 2
+    400170: pasted__Bip001 Spine 3
+    400172: pasted__Bip001 Spine 4
+    400174: pasted__Bip001 Spine1
+    400176: pasted__Bip001 Spine1 1
+    400178: pasted__Bip001 Spine1 2
+    400180: pasted__Bip001 Spine1 3
+    400182: pasted__Bip001 Spine1 4
+    400184: pasted__Bip001 Spine2
+    400186: pasted__Bip001 Spine2 1
+    400188: pasted__Bip001 Spine2 2
+    400190: pasted__Bip001 Spine2 3
+    400192: pasted__Bip001 Spine2 4
+    400194: pasted__group
+    400196: pasted__group 1
+    400198: pasted__group 2
+    400200: pasted__group 3
+    400202: pasted__group1
+    400204: pasted__group10
+    400206: pasted__group12
+    400208: pasted__group13
+    400210: pasted__group14
+    400212: pasted__group17
+    400214: pasted__group18
+    400216: pasted__group2
+    400218: pasted__group24
+    400220: pasted__group26
+    400222: pasted__group26 1
+    400224: pasted__group27
+    400226: pasted__group27 1
+    400228: pasted__group28
+    400230: pasted__group28 1
+    400232: pasted__group28 2
+    400234: pasted__group29
+    400236: pasted__group3
+    400238: pasted__group30
+    400240: pasted__group32
+    400242: pasted__group7
+    400244: pasted__group8
+    400246: pasted__group9
+    400248: pasted__pasted__Bip001
+    400250: pasted__pasted__Bip001 1
+    400252: pasted__pasted__Bip001 2
+    400254: pasted__pasted__Bip001 3
+    400256: pasted__pasted__Bip001 4
+    400258: pasted__pasted__Bip001 5
+    400260: pasted__pasted__Bip001 6
+    400262: pasted__pasted__Bip001 L Clavicle
+    400264: pasted__pasted__Bip001 L Clavicle 1
+    400266: pasted__pasted__Bip001 L Clavicle 2
+    400268: pasted__pasted__Bip001 L Clavicle 3
+    400270: pasted__pasted__Bip001 L Clavicle 4
+    400272: pasted__pasted__Bip001 L Clavicle 5
+    400274: pasted__pasted__Bip001 L Clavicle 6
+    400276: pasted__pasted__Bip001 L Forearm
+    400278: pasted__pasted__Bip001 L Forearm 1
+    400280: pasted__pasted__Bip001 L Forearm 2
+    400282: pasted__pasted__Bip001 L UpperArm
+    400284: pasted__pasted__Bip001 L UpperArm 1
+    400286: pasted__pasted__Bip001 L UpperArm 2
+    400288: pasted__pasted__Bip001 L UpperArm 3
+    400290: pasted__pasted__Bip001 L UpperArm 4
+    400292: pasted__pasted__Bip001 L UpperArm 5
+    400294: pasted__pasted__Bip001 Pelvis
+    400296: pasted__pasted__Bip001 Pelvis 1
+    400298: pasted__pasted__Bip001 Pelvis 2
+    400300: pasted__pasted__Bip001 Pelvis 3
+    400302: pasted__pasted__Bip001 Pelvis 4
+    400304: pasted__pasted__Bip001 Pelvis 5
+    400306: pasted__pasted__Bip001 Pelvis 6
+    400308: pasted__pasted__Bip001 Spine
+    400310: pasted__pasted__Bip001 Spine 1
+    400312: pasted__pasted__Bip001 Spine 2
+    400314: pasted__pasted__Bip001 Spine 3
+    400316: pasted__pasted__Bip001 Spine 4
+    400318: pasted__pasted__Bip001 Spine 5
+    400320: pasted__pasted__Bip001 Spine 6
+    400322: pasted__pasted__Bip001 Spine1
+    400324: pasted__pasted__Bip001 Spine1 1
+    400326: pasted__pasted__Bip001 Spine1 2
+    400328: pasted__pasted__Bip001 Spine1 3
+    400330: pasted__pasted__Bip001 Spine1 4
+    400332: pasted__pasted__Bip001 Spine1 5
+    400334: pasted__pasted__Bip001 Spine1 6
+    400336: pasted__pasted__Bip001 Spine2
+    400338: pasted__pasted__Bip001 Spine2 1
+    400340: pasted__pasted__Bip001 Spine2 2
+    400342: pasted__pasted__Bip001 Spine2 3
+    400344: pasted__pasted__Bip001 Spine2 4
+    400346: pasted__pasted__Bip001 Spine2 5
+    400348: pasted__pasted__Bip001 Spine2 6
+    400350: pasted__pasted__group
+    400352: pasted__pasted__group 1
+    400354: pasted__pasted__group 2
+    400356: pasted__pasted__group13
+    400358: pasted__pasted__group14
+    400360: pasted__pasted__group14 1
+    400362: pasted__pasted__group26
+    400364: pasted__pasted__group26 1
+    400366: pasted__pasted__group27
+    400368: pasted__pasted__group27 1
+    400370: pasted__pasted__group27 2
+    400372: pasted__pasted__group28
+    400374: pasted__pasted__group28 1
+    400376: pasted__pasted__group7
+    400378: pasted__pasted__group8
+    400380: pasted__pasted__group9
+    400382: pasted__pasted__pasted__Bip001
+    400384: pasted__pasted__pasted__Bip001 1
+    400386: pasted__pasted__pasted__Bip001 2
+    400388: pasted__pasted__pasted__Bip001 L Clavicle
+    400390: pasted__pasted__pasted__Bip001 L Clavicle 1
+    400392: pasted__pasted__pasted__Bip001 L Clavicle 2
+    400394: pasted__pasted__pasted__Bip001 L Forearm
+    400396: pasted__pasted__pasted__Bip001 L Hand
+    400398: pasted__pasted__pasted__Bip001 L UpperArm
+    400400: pasted__pasted__pasted__Bip001 L UpperArm 1
+    400402: pasted__pasted__pasted__Bip001 L UpperArm 2
+    400404: pasted__pasted__pasted__Bip001 Pelvis
+    400406: pasted__pasted__pasted__Bip001 Pelvis 1
+    400408: pasted__pasted__pasted__Bip001 Pelvis 2
+    400410: pasted__pasted__pasted__Bip001 Spine
+    400412: pasted__pasted__pasted__Bip001 Spine 1
+    400414: pasted__pasted__pasted__Bip001 Spine 2
+    400416: pasted__pasted__pasted__Bip001 Spine1
+    400418: pasted__pasted__pasted__Bip001 Spine1 1
+    400420: pasted__pasted__pasted__Bip001 Spine1 2
+    400422: pasted__pasted__pasted__Bip001 Spine2
+    400424: pasted__pasted__pasted__Bip001 Spine2 1
+    400426: pasted__pasted__pasted__Bip001 Spine2 2
+    400428: pasted__pasted__pasted__group13
+    400430: pasted__pasted__pasted__group13 1
+    400432: pasted__pasted__pasted__group14
+    400434: pasted__pasted__pasted__group14 1
+    400436: pasted__pasted__pasted__group26
+    400438: pasted__pasted__pasted__group26 1
+    400440: pasted__pasted__pasted__group26 2
+    400442: pasted__pasted__pasted__group27
+    400444: pasted__pasted__pasted__group27 1
+    400446: pasted__pasted__pasted__group8
+    400448: pasted__pasted__pasted__pasted__group13
+    400450: pasted__pasted__pasted__pasted__group13 1
+    400452: pasted__pasted__pasted__pasted__group14
+    400454: pasted__pasted__pasted__pasted__group14 1
+    400456: pasted__pasted__pasted__pasted__group14 2
+    400458: pasted__pasted__pasted__pasted__group26
+    400460: pasted__pasted__pasted__pasted__group26 1
+    400462: pasted__pasted__pasted__pasted__pasted__group13
+    400464: pasted__pasted__pasted__pasted__pasted__group13 1
+    400466: pasted__pasted__pasted__pasted__pasted__group13 2
+    400468: pasted__pasted__pasted__pasted__pasted__group14
+    400470: pasted__pasted__pasted__pasted__pasted__group14 1
+    400472: pasted__pasted__pasted__pasted__pasted__pasted__group13
+    400474: pasted__pasted__pasted__pasted__pasted__pasted__group13 1
+    400476: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3
+    400478: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3 1
+    400480: pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3
+    400482: pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3 1
+    400484: pasted__pasted__pasted__pasted__pasted__pasted__pCylinder3 2
+    400486: pasted__pasted__pasted__pasted__pasted__pCylinder3
+    400488: pasted__pasted__pasted__pasted__pasted__pCylinder3 1
+    400490: pasted__pasted__pasted__pasted__pCylinder3
+    400492: pasted__pasted__pasted__pasted__pCylinder3 1
+    400494: pasted__pasted__pasted__pCylinder3
+    400496: pasted__pasted__pasted__pSphere2
+    400498: pasted__pasted__pCylinder2
+    400500: pasted__pasted__pCylinder3
+    400502: pasted__pasted__pSphere2
+    400504: pasted__pasted__pSphere2 1
+    400506: pasted__pasted__pSphere2 2
+    400508: pasted__pasted__pSphere3
+    400510: pasted__pasted__pSphere3 1
+    400512: pasted__pCube2
+    400514: pasted__pCylinder2
+    400516: pasted__pCylinder2 1
+    400518: pasted__pCylinder3
+    400520: pasted__pCylinder3 1
+    400522: pasted__pCylinder3 2
+    400524: pasted__pSphere2
+    400526: pasted__pSphere2 1
+    400528: pasted__pSphere2 2
+    400530: pasted__pSphere2 3
+    400532: pasted__pSphere2 4
+    400534: pasted__pSphere3
+    400536: pasted__pSphere3 1
+    400538: pCube1
+    400540: pCube2
+    400542: pCylinder1
+    400544: pCylinder2
+    400546: pCylinder3
+    400548: PonyTail1
+    400550: PonyTail2
+    400552: PonyTail3
+    400554: pSphere1
+    400556: pSphere2
+    400558: pSphere3
+    400560: pSphere4
+    400562: transform1
+    400564: transform10
+    400566: transform11
+    400568: transform12
+    400570: transform13
+    400572: transform14
+    400574: transform15
+    400576: transform16
+    400578: transform17
+    400580: transform18
+    400582: transform19
+    400584: transform2
+    400586: transform20
+    400588: transform21
+    400590: transform22
+    400592: transform23
+    400594: transform24
+    400596: transform25
+    400598: transform26
+    400600: transform27
+    400602: transform28
+    400604: transform29
+    400606: transform3
+    400608: transform30
+    400610: transform31
+    400612: transform32
+    400614: transform33
+    400616: transform34
+    400618: transform35
+    400620: transform36
+    400622: transform37
+    400624: transform38
+    400626: transform39
+    400628: transform4
+    400630: transform5
+    400632: transform6
+    400634: transform7
+    400636: transform8
+    400638: transform9
+    400640: UpperEyeLids
+    2100000: Mat_Clothing
+    2100002: Mat_Skin
+    2100004: lambert1
+    2300000: pSphere4
+    3300000: pSphere4
+    4300000: Char
+    4300002: pSphere4
+    9500000: //RootNode
+    13700000: Char
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
